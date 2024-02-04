@@ -11,8 +11,10 @@
 * [Database](#database)
 * [Technologies](#technologies)
 
+  
+![home](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/44c9da1e-cf43-4fd7-8645-30d8566867f2)
+
 ## Developers👨‍💻
-* [Branimir Bilić](https://github.com/nebra00)
 * [Josip Čeprnić](https://github.com/Cepa95)
   
   [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josip-ceprnic/)
@@ -39,6 +41,7 @@ The primary objective of this application is to facilitate the connection betwee
 
 4. **For Coaches**
    - Coaches can create customized workout plans for their clients.
+   - Coaches can streamline their workflow and enhance efficiency by utilizing templates to create workouts.
 
 5. **For Clients**
    - Clients can fill out forms designed to track their progress.
@@ -79,10 +82,11 @@ The primary objective of this application is to facilitate the connection betwee
 
 - **Coach-Client Interaction**
   - Coaches can create tailored training programs for clients.
+  - Coaches can streamline their workflow and enhance efficiency by utilizing templates to create workouts.
 
 - **Progress Tracking**
   - Clients can fill out forms to track their progress, and the software calculates and monitors their improvements.
-  - Clients can visualize their fitness journey through dynamic charts that illustrate their measurements, offering an engaging and visually appealing representation of their progress over time
+  - Clients can visualize their fitness journey through dynamic charts that illustrate their measurements, offering an engaging and visually appealing representation of their progress over time.
 
 - **Workout Plan Delivery**
   - Clients have the ability to download their training programs in PDF format.
