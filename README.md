@@ -1,5 +1,9 @@
 # OnlineTrainingSystem💪🏋️‍♀️
 
+ ![home](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/2ddb4a51-055d-4802-a2f3-c857717ac4ae)
+ ![login-page](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/c7d24cc9-6f8c-4120-8d8b-82d97d198851)
+
+
 ## List of Contents📜
 * [Developers](#developers)
 * [Goal of the Application](#goal-of-the-application)
@@ -11,8 +15,6 @@
 * [Database](#database)
 * [Technologies](#technologies)
 
-  
-![home](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/44c9da1e-cf43-4fd7-8645-30d8566867f2)
 
 ## Developers👨‍💻
 * [Josip Čeprnić](https://github.com/Cepa95)
@@ -55,6 +57,9 @@ The primary objective of this application is to facilitate the connection betwee
 8. **Admin CRUD Operations**
    - Admin has full control over user management, including creating, reading, updating, and deleting client, coach profiles, contracts, measurments...
 
+![admin-exercises](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/43ddf960-7444-479e-a1eb-aaf5832e1457)
+
+
 ## Registration of Clients and Coaches📲📝
 
 ### For Clients:
@@ -71,6 +76,12 @@ The primary objective of this application is to facilitate the connection betwee
   - Insert basic information, including gender and age.
   - Specify the types of training offered and educational background.
   - Provide years of coaching experience and pricing details.
+
+![register](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/9793e2e5-35a1-4e56-8c85-916d79ef6eb3)
+![client-registration-form](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/d26b0ea3-e063-437b-b27d-af7aa89ce614)
+![coach-registration-form](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/6f0632bf-cf11-491b-b760-42ed87b76fa4)
+
+
 
 ## Business Logic🎓💡
 
@@ -90,6 +101,13 @@ The primary objective of this application is to facilitate the connection betwee
 
 - **Workout Plan Delivery**
   - Clients have the ability to download their training programs in PDF format.
+
+![client-page](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/09bd3fca-ed70-4ce7-af6e-ddf259fb5865)
+![measurements](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/9aa65ead-740a-4bb7-ba34-a7b0471a2f7e)
+![charts](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/33aae7e2-a115-4417-a01c-71916a3bcac8)
+![contracts](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/b0b49387-bcc4-4dd4-a5b1-4138383b3e7d)
+
+
 
 ## Database⛓🔑
 ![database](https://github.com/OSS-Java-Seminar-2023/OnlineTrainingSystem/assets/124800316/3826f440-fc49-43d3-a68c-f4211f2fb792)
