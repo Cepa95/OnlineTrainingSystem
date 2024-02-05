@@ -115,6 +115,7 @@ The primary objective of this application is to facilitate the connection betwee
 ![measurements](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/9aa65ead-740a-4bb7-ba34-a7b0471a2f7e)
 ![charts](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/33aae7e2-a115-4417-a01c-71916a3bcac8)
 ![contracts](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/b0b49387-bcc4-4dd4-a5b1-4138383b3e7d)
+![client-workout-list](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/13d43e90-1c88-4cdc-919b-4ab0a77d6a1e)
 ![client-workout-details](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/6fd9479e-2f5c-4b5c-9b9e-3a2756e7ddd0)
 ![make-a-contract](https://github.com/Cepa95/OnlineTrainingSystem/assets/124800316/4a406b00-c5c1-4f22-a64c-ddeaa6d74ceb)
 
