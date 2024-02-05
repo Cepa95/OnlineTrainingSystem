@@ -27,7 +27,6 @@
 <table>
     <thead>
     <tr>
-        <th>ID</th>
         <th>Coach email</th>
         <th>Client email</th>
         <th>Start Date</th>
@@ -42,11 +41,12 @@
     <tbody>
     <th:block th:each="contract : ${contracts}">
         <tr>
-            <td th:text="${contract.id}"></td>
             <td th:text="${contract.coach.user.email}"></td>
             <td th:text="${contract.client.user.email}"></td>
-            <td th:text="${contract.startDate}"></td>
-            <td th:text="${contract.endDate}" th:class="${#dates.createNow().after(contract.endDate)} ? 'red-text' : ''"></td>
+            <td th:text="${#dates.format(contract.startDate, 'dd-MM-yyyy')}"></td>
+            <td th:text="${#dates.format(contract.endDate, 'dd-MM-yyyy')}" th:class="${#dates.createNow().after(contract.endDate)} ? 'red-text' : ''"></td>
+
+
             <td th:text="${contract.monthlyPrice}"></td>
             <td>
                 <a th:href="@{/admins/contracts/update/{id}(id=${contract.id})}" class="become-link">Update</a>
